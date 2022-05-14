@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HowTo/Other files.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HowTo/Other files.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
   },
   "active": "636e8163c0645bda",
   "lastOpenFiles": [
+    "README.md",
     "HowTo/Other files.md",
     "HowTo/Further options.md",
     "Rules/World.md",
@@ -104,7 +105,6 @@
     "HowTo/Getting Started.md",
     "HowTo/Recording Details.md",
     "HowTo/Adding a Character.md",
-    "Dice.md",
-    "Blank Character/New Character.md"
+    "Dice.md"
   ]
 }
