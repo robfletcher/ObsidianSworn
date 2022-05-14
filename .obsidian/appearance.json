@@ -1,0 +1,9 @@
+{
+  "theme": "moonstone",
+  "interfaceFontFamily": "Myriad Pro",
+  "textFontFamily": "Myriad Pro",
+  "monospaceFontFamily": "Source Code",
+  "baseFontSize": 14,
+  "cssTheme": "Ironsworn",
+  "baseFontSizeAction": false
+}

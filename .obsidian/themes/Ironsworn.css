@@ -1,0 +1,26 @@
+.markdown-preview-view ul > li.task-list-item.is-checked {
+    text-decoration:none;
+    font-weight: bold;
+    color:var(--text-normal);
+}
+
+.markdown-preview-view ol > li.task-list-item.is-checked {
+    text-decoration:none;
+    font-weight: bold;
+    color:var(--text-normal);
+}
+
+.markdown-embed-title {
+    display: none;
+}
+
+.embedded-table-result .dice-roller-button {
+    display: none;
+}
+
+.embedded-table-result .dice-roller {
+    color: red;
+    margin-left: 0.25em;
+    margin-left: 0.125em;
+    font-size: 1.125em;
+}

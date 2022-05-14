@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "daea35504fa0dee5",
+    "type": "split",
+    "children": [
+      {
+        "id": "636e8163c0645bda",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "HowTo/Other files.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21aa863ab028608a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d81575f5d19c26ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83e8a86b9fe2a689",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "63e6694a14789b92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212
+  },
+  "right": {
+    "id": "04e0992392a41812",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ad269b4d2cfab62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acb38478f1bc6efe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HowTo/Other files.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e576adae541a67b1",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "636e8163c0645bda",
+  "lastOpenFiles": [
+    "HowTo/Other files.md",
+    "HowTo/Further options.md",
+    "Rules/World.md",
+    "Home.md",
+    "HowTo/Panes.md",
+    "HowTo/Getting Started.md",
+    "HowTo/Recording Details.md",
+    "HowTo/Adding a Character.md",
+    "Dice.md",
+    "Blank Character/New Character.md"
+  ]
+}
