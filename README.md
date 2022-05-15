@@ -14,6 +14,6 @@ This Vault also uses Ironsworn rules data created by Discord user **@rsek's** an
 
 The quickest way to get started using this Vault is to download it as a Zip file. 
 
-![[download.jpeg]]
+![[Images/download.jpeg]]
 
 Click on the green 'Code' button and select the 'Download Zip' option. Once you have downloaded it just unzip it and then use the 'Open another Vault' button in the left sidebar in Obsidian and use the 'Open Folder as Vault' option to open Obsidiansworn. 
